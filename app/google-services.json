@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "295631480700",
+    "firebase_url": "https://safety-c14b0.firebaseio.com",
+    "project_id": "safety-c14b0",
+    "storage_bucket": "safety-c14b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295631480700:android:06ce553dd184b99a",
+        "android_client_info": {
+          "package_name": "com.example.reddy.safety"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "295631480700-bejiat4961eh56d77rqbsmio0h79pjma.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.reddy.safety",
+            "certificate_hash": "8fcf5dbf1c64fc60faa62d752fb1f07e9f8286d5"
+          }
+        },
+        {
+          "client_id": "295631480700-eshdp61ru39dr3300pg5odkhhbvd9p38.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8uJ4YvCUQ8n6vxnqo01eEyAgnp5IT0rQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "295631480700-eshdp61ru39dr3300pg5odkhhbvd9p38.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

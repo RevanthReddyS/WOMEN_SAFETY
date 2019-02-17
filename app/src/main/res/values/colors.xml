@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#336B87</color>
+    <color name="colorPrimaryDark">#2A3132</color>
+    <color name="colorAccent">#763626</color>
+    <color name="btColor">#000000</color>
+    <color name="cyan">#00FFFF</color>
+    <color name="black">#000000</color>
+    <color name="fabbackground">#00A2E8</color>
+    <color name="lightgray">#DCDCDC</color>
+
+
+</resources>
