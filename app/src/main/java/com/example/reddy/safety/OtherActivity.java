@@ -73,7 +73,6 @@ public class OtherActivity extends AppCompatActivity {
     public TextToSpeech textToSpeech;
     public String source = "en-UK", target = "en";
     private final int REQ_CODE_SPEECH_INPUT = 100;
-    private static final String API_KEY = "AIzaSyAtbKyjPMRlB7Lcqa75Mqf03O822ABHJAA";
     public final Handler handler = new Handler();
     FloatingActionButton btnSpeak;
     FirebaseAuth mAuth;
@@ -251,7 +250,7 @@ public class OtherActivity extends AppCompatActivity {
                        String message = "Emergency";
                        message = message + urlWithPrefix;
 
-                       smsManager.sendTextMessage("7993295977", null, message,
+                       smsManager.sendTextMessage("ENTER YOUR MOBILE NUMBER", null, message,
                                null, null);
                        Toast.makeText(OtherActivity.this, "message sent", Toast.LENGTH_LONG);
                    }
@@ -328,7 +327,7 @@ public class OtherActivity extends AppCompatActivity {
        String message="Emegergency";
        message=message+urlWithPrefix;
 
-        smsManager.sendTextMessage("9490962158", null,message,
+        smsManager.sendTextMessage("ENTER YOUR MOBILE NUMBER", null,message,
                 null, null);
         Toast.makeText(OtherActivity.this,"message sent",Toast.LENGTH_LONG);
     }
